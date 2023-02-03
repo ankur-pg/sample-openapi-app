@@ -1,4 +1,4 @@
-# Bollywood Movie Recommendor App 
+# Recommendor App
 
 ### Built using OpenAI API and NextJS
 
@@ -15,7 +15,7 @@
    $ cp .env.example .env
    ```
 
-6. Add your [API key](https://beta.openai.com/account/api-keys) to the newly created `.env` file
+6. Add your [API key] to the newly created `.env` file
 
 7. Run the app
 
